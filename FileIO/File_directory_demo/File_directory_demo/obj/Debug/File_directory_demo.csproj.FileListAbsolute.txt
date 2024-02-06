@@ -1,0 +1,33 @@
+C:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\bin\Debug\File_directory_demo.exe.config
+C:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.csprojResolveAssemblyReference.cache
+C:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\bin\Debug\File_directory_demo.exe
+C:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\bin\Debug\File_directory_demo.pdb
+C:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.exe
+C:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.pdb
+C:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.Form1.resources
+C:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.Properties.Resources.resources
+C:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.csproj.GenerateResource.Cache
+C:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.Form2.resources
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\bin\Debug\File_directory_demo.exe.config
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\bin\Debug\File_directory_demo.exe
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\bin\Debug\File_directory_demo.pdb
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.csproj.AssemblyReference.cache
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.csproj.SuggestedBindingRedirects.cache
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.Form1.resources
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.Form2.resources
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.Properties.Resources.resources
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.csproj.GenerateResource.cache
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.csproj.CoreCompileInputs.cache
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.exe
+D:\PRIYANKA K\C#\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.pdb
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\bin\Debug\File_directory_demo.exe.config
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\bin\Debug\File_directory_demo.exe
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\bin\Debug\File_directory_demo.pdb
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.csproj.AssemblyReference.cache
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.Form1.resources
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.Form2.resources
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.Properties.Resources.resources
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.csproj.GenerateResource.cache
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.csproj.CoreCompileInputs.cache
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.exe
+C:\Users\SQUAD\Desktop\vandana\FileIO\File_directory_demo\File_directory_demo\obj\Debug\File_directory_demo.pdb

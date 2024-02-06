@@ -1,0 +1,6 @@
+C:\Priyanka K\c#\ADO.NET\delegates\delegates\bin\Debug\delegates.exe.config
+C:\Priyanka K\c#\ADO.NET\delegates\delegates\obj\Debug\delegates.csprojResolveAssemblyReference.cache
+C:\Priyanka K\c#\ADO.NET\delegates\delegates\bin\Debug\delegates.exe
+C:\Priyanka K\c#\ADO.NET\delegates\delegates\bin\Debug\delegates.pdb
+C:\Priyanka K\c#\ADO.NET\delegates\delegates\obj\Debug\delegates.exe
+C:\Priyanka K\c#\ADO.NET\delegates\delegates\obj\Debug\delegates.pdb

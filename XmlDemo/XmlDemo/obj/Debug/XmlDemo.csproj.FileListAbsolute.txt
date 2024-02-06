@@ -1,0 +1,7 @@
+C:\Users\SQUAD\Desktop\vandana\XmlDemo\XmlDemo\bin\Debug\XmlDemo.exe.config
+C:\Users\SQUAD\Desktop\vandana\XmlDemo\XmlDemo\bin\Debug\XmlDemo.exe
+C:\Users\SQUAD\Desktop\vandana\XmlDemo\XmlDemo\bin\Debug\XmlDemo.pdb
+C:\Users\SQUAD\Desktop\vandana\XmlDemo\XmlDemo\obj\Debug\XmlDemo.csproj.AssemblyReference.cache
+C:\Users\SQUAD\Desktop\vandana\XmlDemo\XmlDemo\obj\Debug\XmlDemo.csproj.CoreCompileInputs.cache
+C:\Users\SQUAD\Desktop\vandana\XmlDemo\XmlDemo\obj\Debug\XmlDemo.exe
+C:\Users\SQUAD\Desktop\vandana\XmlDemo\XmlDemo\obj\Debug\XmlDemo.pdb
